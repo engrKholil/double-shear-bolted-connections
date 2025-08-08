@@ -16,6 +16,8 @@ Related Work:
 "A novel procedure to determine yield and ultimate load and deformation capacity of Double Shear Bolted connections"
 (Note: Manuscript under preparation; not yet published)
 
+# DOI: https://doi.org/10.5281/zenodo.16777657
+
 Run with:
 abaqus cae noGUI=P1.py
 
@@ -756,4 +758,5 @@ del mdb.models['Model-1']
 
 #Cae_File_Save(myfilesave) 
 #mdb.jobs[myJobName].writeInput(consistencyChecking=OFF)
+
 #------------------------------------------------------------------------------
