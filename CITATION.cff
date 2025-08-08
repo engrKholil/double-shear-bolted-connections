@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Double Shear Bolted Connection – Abaqus Modeling (P1.py)"
+authors:
+  - family-names: Kholil
+    given-names: Md. Ibrahim
+    affiliation: "B.Sc. in Civil Engineering"
+    email: engikholil@gmail.com
+date-released: 2025-08-08
+version: 0.1.0
+doi: 10.5281/zenodo.XXXXXXX
+license: MIT
+repository-code: https://github.com/engrKholil/double-shear-bolted-connections
+
+references:
+  - type: article
+    title: "A novel procedure to determine yield and ultimate load and deformation capacity of Double Shear Bolted connections"
+    authors:
+      - family-names: Kholil
+        given-names: Md. Ibrahim
+    year: 2025
+    note: "Manuscript under preparation; not yet published; DOI pending."
+
