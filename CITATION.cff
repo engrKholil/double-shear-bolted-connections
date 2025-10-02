@@ -1,23 +1,40 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite it as below."
 title: "Double Shear Bolted Connection – Abaqus Modeling (P1.py)"
+version: "0.1.0"
+date-released: "2025-08-08"
+doi: "10.5281/zenodo.16777657"
+license: "MIT"
+repository-code: "https://github.com/engrKholil/double-shear-bolted-connections"
+
 authors:
-  - family-names: Kholil
-    given-names: Md. Ibrahim
-    affiliation: "B.Sc. in Civil Engineering"
-    email: engikholil@gmail.com
-date-released: 2025-08-08
-version: 0.1.0
-doi: 10.5281/zenodo.XXXXXXX
-license: MIT
-repository-code: https://github.com/engrKholil/double-shear-bolted-connections
+  - family-names: "Kholil"
+    given-names: "Md. Ibrahim"
+    affiliation: "Postgraduate Student, Department of Civil Engineering, Khulna University of Engineering and Technology, Khulna, Bangladesh"
+    email: "engikholil@gmail.com"
+    orcid: "https://orcid.org/0000-0002-3349-8496"
+
+  - family-names: "Ahmed"
+    given-names: "Khondaker Sakil"
+    affiliation: "Associate Professor, Department of Civil Engineering, Military Institute of Science and Technology (MIST), Dhaka, Bangladesh"
+    email: "drksa@ce.mist.ac.bd"
+    orcid: "https://orcid.org/0000-0001-5010-7306"
+
+  - family-names: "Ahmed"
+    given-names: "Aziz"
+    affiliation: "Senior Lecturer, School of Civil, Mining, Environmental and Architectural Engineering, University of Wollongong, Australia"
+    email: "aziza@uow.edu.au"
+    orcid: "https://orcid.org/0000-0001-9707-2606"
 
 references:
   - type: article
-    title: "A novel procedure to determine yield and ultimate load and deformation capacity of Double Shear Bolted connections"
+    title: "A novel procedure to determine yield and ultimate load and deformation capacity of Double Shear Bolted Connections"
     authors:
-      - family-names: Kholil
-        given-names: Md. Ibrahim
+      - family-names: "Kholil"
+        given-names: "Md. Ibrahim"
+      - family-names: "Ahmed"
+        given-names: "Khondaker Sakil"
+      - family-names: "Ahmed"
+        given-names: "Aziz"
     year: 2025
     note: "Manuscript under preparation; not yet published; DOI pending."
-
