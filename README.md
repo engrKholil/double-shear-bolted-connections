@@ -41,8 +41,21 @@ This code is archived and citable via Zenodo:
 ---
 
 ## 🛠️ Getting Started
+📖 Citation
+
+If you use this code, please cite it as:
+@software{Kholil2025_double_shear,
+  author       = {Kholil, Md. Ibrahim and Ahmed, Khondaker Sakil and Ahmed, Aziz},
+  title        = {Double Shear Bolted Connection – Abaqus Modeling (P1.py)},
+  year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.16777657},
+  url          = {https://doi.org/10.5281/zenodo.16777657}
+}
+
 
 ### To run the script:
 
 ```bash
 abaqus cae noGUI=P1.py
+
